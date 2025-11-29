@@ -4,4 +4,4 @@ It allows you to:
 - Generate strong passwords with letters, digits, and special characters.
 - Save passwords to a file.
 - Search for existing passwords by name.
-- Make sure the .txt and .py files are in the same location.
+Make sure the .txt and .py files are in the same location.
